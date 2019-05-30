@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\EjerciciosEvaluacion\EjerciciosEvaluacion\bin\Release\EjerciciosEvaluacion.exe.config
+C:\Users\lenovo\source\repos\EjerciciosEvaluacion\EjerciciosEvaluacion\bin\Release\EjerciciosEvaluacion.exe
+C:\Users\lenovo\source\repos\EjerciciosEvaluacion\EjerciciosEvaluacion\bin\Release\EjerciciosEvaluacion.pdb
+C:\Users\lenovo\source\repos\EjerciciosEvaluacion\EjerciciosEvaluacion\obj\Release\EjerciciosEvaluacion.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\EjerciciosEvaluacion\EjerciciosEvaluacion\obj\Release\EjerciciosEvaluacion.Form1.resources
+C:\Users\lenovo\source\repos\EjerciciosEvaluacion\EjerciciosEvaluacion\obj\Release\EjerciciosEvaluacion.Properties.Resources.resources
+C:\Users\lenovo\source\repos\EjerciciosEvaluacion\EjerciciosEvaluacion\obj\Release\EjerciciosEvaluacion.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\EjerciciosEvaluacion\EjerciciosEvaluacion\obj\Release\EjerciciosEvaluacion.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\EjerciciosEvaluacion\EjerciciosEvaluacion\obj\Release\EjerciciosEvaluacion.exe
+C:\Users\lenovo\source\repos\EjerciciosEvaluacion\EjerciciosEvaluacion\obj\Release\EjerciciosEvaluacion.pdb
